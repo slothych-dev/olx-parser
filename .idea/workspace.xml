@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cde4018b-7e09-4fb1-9f5d-cd9f20cc928d" name="Changes" comment="перший парсер OLX" />
+    <list default="true" id="cde4018b-7e09-4fb1-9f5d-cd9f20cc928d" name="Changes" comment="перший парсер OLX">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +66,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776637128744</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="перший парсер OLX">
+      <option name="closed" value="true" />
+      <created>1776637229466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776637229466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
